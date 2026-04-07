@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Upcoming Presentations
+### Monday, April 20th Compute in the Cloud - Cloud NH
+- https://www.meetup.com/cloudnh/events/313807300/
+### Tuesday April 21st AI Needs Compute - Cloud TX
+- https://www.meetup.com/cloudtx/events/313808680/
+### Wednesday April 22 Azure Machine Learning - Nashua CLOUD .NET User Group
+- https://www.meetup.com/nashuaug/events/313820080/
