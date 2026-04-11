@@ -16,15 +16,19 @@ Here are some ideas to get you started:
 -->
 ## Upcoming Presentations
 ### Compute in the Cloud<br>
+<img src="images/ComputeInTheCloud.png" style="width:45%; height:auto;">
+
 - Monday, April 20th Compute in the Cloud - Cloud NH<br>
   https://www.meetup.com/cloudnh/events/313807300/<br>
-  <img src="images/ComputeInTheCloud.png" style="width:50%; height:auto;">
+<br>
 
 ### AI Needs Compute
+<img src="images/AINeedsCompute.png" style="width:45%; height:auto;">
+
 - Tuesday April 21st AI Needs Compute - Cloud TX<br>
   https://www.meetup.com/cloudtx/events/313808680/<br>
-  <img src="images/AINeedsCompute.png" style="width:50%; height:auto;">
-  
+<br>
+
 ### Azure Machine Learning Series
 <img src="images/MachineLearning3.png" style="width:20%; height:auto;">  <img src="images/MachineLearning4.png" style="width:20%; height:auto;"> <img src="images/MachineLearning5.png" style="width:20%; height:auto;"> 
 
