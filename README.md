@@ -32,10 +32,8 @@ Here are some ideas to get you started:
 -->
 
 ### Azure Machine Learning Series
-<img src="images/MachineLearning3.png" style="width:20%; height:auto;">  <img src="images/MachineLearning4.png" style="width:20%; height:auto;"> <img src="images/MachineLearning5.png" style="width:20%; height:auto;"> 
+<img src="images/MachineLearning4.png" style="width:20%; height:auto;"> <img src="images/MachineLearning5.png" style="width:20%; height:auto;"> 
 
-- Wednesday April 22 Azure Machine Learning 3 - Nashua CLOUD .NET User Group<br>
-  https://www.meetup.com/nashuaug/events/313820080/<br>
 - Wednesday, May 13 Azure Machine Learning 4 - Nashua CLOUD .NET User Group<br>
   https://www.meetup.com/nashuaug/events/313820144/<br>
 - Wednesday, Jun 10 Azure Machine Learning 5 - Nashua CLOUD .NET User Group<br>
