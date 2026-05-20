@@ -38,3 +38,54 @@ Here are some ideas to get you started:
   https://www.meetup.com/nashuaug/events/313820144/<br>
 - Wednesday, Jun 10 Azure Machine Learning 5 - Nashua CLOUD .NET User Group<br>
   https://www.meetup.com/nashuaug/events/313820173/<br>
+
+<br><br>
+## 🎤 Past Presentations
+TBD
+
+<!--
+<table border=0 >
+<tr>
+<td ><img src="images/WSL.png" style="width:200px; height:auto;"></td>
+<td>
+🐧 Windows Subsystem for Linux (WSL)<br>
+Learn how to use WSL for cloud engineering, development workflows, containers, and Linux tooling directly from Windows.<br>
+📺 YouTube: https://www.youtube.com/@nhcloud<br>
+💻 Slides:  https://github.com/danielecolon/WSL/blob/main/WSL.pdf<br>
+📦 GitHub:  https://github.com/danielecolon
+</td>
+</tr>
+</table>
+
+
+
+---
+
+### 💻 Azure CLI
+
+Master Azure from the command line using the Azure CLI for automation, scripting, and infrastructure management.
+
+[![Azure CLI Presentation](images/azcli.png)](https://www.youtube.com/@nhcloud)
+
+📺 YouTube: https://www.youtube.com/@nhcloud
+
+---
+
+### ⚡ Azure Batch
+
+An introduction to Azure Batch for large-scale parallel workloads, rendering, media processing, and HPC job scheduling.
+
+[![Azure Batch Presentation](images/AzureBatch.png)](https://www.youtube.com/@nhcloud)
+
+📺 YouTube: https://www.youtube.com/@nhcloud
+
+---
+
+### 🧠 Azure CycleCloud
+
+Explore Azure CycleCloud for deploying and managing HPC and AI clusters using Slurm and enterprise-scale schedulers.
+
+[![Azure CycleCloud Presentation](images/AzureCycleCloud.png)](https://www.youtube.com/@nhcloud)
+
+📺 YouTube: https://www.youtube.com/@nhcloud
+-->
