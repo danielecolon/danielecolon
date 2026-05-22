@@ -41,23 +41,38 @@ Here are some ideas to get you started:
 
 <br><br>
 ## 🎤 Past Presentations
-TBD
-
-<!--
-<table border=0 >
+<br>
+Windows Subsystem for Linux (WSL) 🐧
+<table border=0 style="background:white">
+<tr><td colspan=2>Learn how to use WSL for cloud engineering, development workflows, containers, and Linux tooling directly from Windows.<br></td></tr>
 <tr>
-<td ><img src="images/WSL.png" style="width:200px; height:auto;"></td>
-<td>
-🐧 Windows Subsystem for Linux (WSL)<br>
-Learn how to use WSL for cloud engineering, development workflows, containers, and Linux tooling directly from Windows.<br>
-📺 YouTube: https://www.youtube.com/@nhcloud<br>
-💻 Slides:  https://github.com/danielecolon/WSL/blob/main/WSL.pdf<br>
-📦 GitHub:  https://github.com/danielecolon
-</td>
+    <td ><img src="images/WSL.png" style="width:200px; height:auto;"></td>
+    <td>
+        <table border=0>
+          <tr><td>📺 YouTube:</td><td>https://www.youtube.com/watch?v=vsuLHIVrzXo&t=1354s</td></tr>
+          <tr><td>💻 Slides:</td><td>https://github.com/danielecolon/WSL/blob/main/WSL.pdf</td></tr>
+          <tr><td>📦 GitHub:</td><td>https://github.com/danielecolon/WSL</td></tr>
+        </table>
+    </td>
+</tr>
+</table>
+<br><br>
+Azure CLI 💻
+<table border=0 style="background:white">
+<tr><td colspan=2>Master Azure from the command line using the Azure CLI for automation, scripting, and infrastructure management.<br></td></tr>
+<tr>
+    <td ><img src="images/azcli.png" style="width:200px; height:auto;"></td>
+    <td>
+        <table border=0>
+          <tr><td>📺 YouTube:</td><td>https://www.youtube.com/watch?v=_inJ4uKAJTc&t=1617s</td></tr>
+          <tr><td>💻 Slides:</td><td>https://github.com/danielecolon/Azure-CLI/blob/main/AzureCLI(az).pdf</td></tr>
+          <tr><td>📦 GitHub:</td><td>https://github.com/danielecolon/Azure-CLI</td></tr>
+        </table>
+    </td>
 </tr>
 </table>
 
-
+<!--
 
 ---
 
