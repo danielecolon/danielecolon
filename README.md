@@ -76,7 +76,7 @@ Azure Batch ⚡
 <table border=0 style="background:white">
 <tr><td colspan=2>An introduction to Azure Batch for large-scale parallel workloads, rendering, media processing, and HPC job scheduling.<br></td></tr>
 <tr>
-    <td ><img src="images/AzureBatch.png" style="width:200px; height:100px;"></td>
+    <td ><img src="images/AzureBatch.png" style="width:200px; height:auto;"></td>
     <td>
         <table border=0>
           <tr><td>📺 YouTube:</td><td>https://www.youtube.com/watch?v=-kvSgLiEdzQ</td></tr>
