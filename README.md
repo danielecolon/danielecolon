@@ -42,8 +42,9 @@ Here are some ideas to get you started:
 <br><br>
 ## 🎤 Past Presentations
 <br>
-Windows Subsystem for Linux (WSL) 🐧
-<table style="width: 600px">
+
+<table>
+<tr><td colspan=2>Windows Subsystem for Linux (WSL) 🐧</td></tr>
 <tr><td colspan=2>Learn how to use WSL for cloud engineering, development workflows, containers, and Linux tooling directly from Windows.<br></td></tr>
 <tr>
     <td ><img src="images/WSL.png" style="width:200px; height:auto;"></td>
@@ -55,10 +56,10 @@ Windows Subsystem for Linux (WSL) 🐧
         </table>
     </td>
 </tr>
-</table>
-<br><br>
-Azure CLI 💻
-<table style="width: 600px">
+
+<tr><td colspan=2><br><br></td></tr>
+
+<tr><td colspan=2>Azure CLI 💻</td></tr>
 <tr><td colspan=2>Master Azure from the command line using the Azure CLI for automation, scripting, and infrastructure management.<br></td></tr>
 <tr>
     <td ><img src="images/azcli.png" style="width:200px; height:auto;"></td>
@@ -70,10 +71,10 @@ Azure CLI 💻
         </table>
     </td>
 </tr>
-</table>
-<br><br>
-Azure Batch ⚡
-<table style="width: 600px">
+
+<tr><td colspan=2><br><br></td></tr>
+
+<tr><td colspan=2>Azure Batch ⚡</td></tr>
 <tr><td colspan=2>An introduction to Azure Batch for large-scale parallel workloads, rendering, media processing, and HPC job scheduling.<br></td></tr>
 <tr>
     <td ><img src="images/AzureBatch.png" style="width:200px; height:auto;"></td>
@@ -85,10 +86,10 @@ Azure Batch ⚡
         </table>
     </td>
 </tr>
-</table>
-<br><br>
-Azure CycleCloud 🧠
-<table style="width: 600px">
+
+<tr><td colspan=2><br><br></td></tr>
+
+<tr><td colspan=2>Azure CycleCloud 🧠</td></tr>
 <tr><td colspan=2>Explore Azure CycleCloud for deploying and managing HPC and AI clusters using Slurm and enterprise-scale schedulers.<br></td></tr>
 <tr>
     <td ><img src="images/AzureCycleCloud.png" style="width:200px; height:auto;"></td>
