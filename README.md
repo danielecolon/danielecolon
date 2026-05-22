@@ -71,36 +71,34 @@ Azure CLI 💻
     </td>
 </tr>
 </table>
+<br><br>
+Azure Batch ⚡
+<table border=0 style="background:white">
+<tr><td colspan=2>An introduction to Azure Batch for large-scale parallel workloads, rendering, media processing, and HPC job scheduling.<br></td></tr>
+<tr>
+    <td ><img src="images/AzureBatch.png" style="width:200px; height:100px;"></td>
+    <td>
+        <table border=0>
+          <tr><td>📺 YouTube:</td><td>https://www.youtube.com/watch?v=-kvSgLiEdzQ</td></tr>
+          <tr><td>💻 Slides:</td><td>https://github.com/danielecolon/Azure-Batch/blob/main/Azure%20HPC%20Batch.pdf</td></tr>
+          <tr><td>📦 GitHub:</td><td>https://github.com/danielecolon/Azure-Batch</td></tr>
+        </table>
+    </td>
+</tr>
+</table>
+<br><br>
+Azure CycleCloud 🧠
+<table border=0 style="background:white">
+<tr><td colspan=2>Explore Azure CycleCloud for deploying and managing HPC and AI clusters using Slurm and enterprise-scale schedulers.<br></td></tr>
+<tr>
+    <td ><img src="images/AzureCycleCloud.png" style="width:200px; height:100px;"></td>
+    <td>
+        <table border=0>
+          <tr><td>📺 YouTube:</td><td>https://www.youtube.com/watch?v=hDXpCk9tZoc&t=1815s</td></tr>
+          <tr><td>💻 Slides:</td><td>https://github.com/danielecolon/Azure-CycleCloud/blob/main/Azure%20HPC%20CycleCloud.pdf</td></tr>
+          <tr><td>📦 GitHub:</td><td>https://github.com/danielecolon/Azure-CycleCloud</td></tr>
+        </table>
+    </td>
+</tr>
+</table>
 
-<!--
-
----
-
-### 💻 Azure CLI
-
-Master Azure from the command line using the Azure CLI for automation, scripting, and infrastructure management.
-
-[![Azure CLI Presentation](images/azcli.png)](https://www.youtube.com/@nhcloud)
-
-📺 YouTube: https://www.youtube.com/@nhcloud
-
----
-
-### ⚡ Azure Batch
-
-An introduction to Azure Batch for large-scale parallel workloads, rendering, media processing, and HPC job scheduling.
-
-[![Azure Batch Presentation](images/AzureBatch.png)](https://www.youtube.com/@nhcloud)
-
-📺 YouTube: https://www.youtube.com/@nhcloud
-
----
-
-### 🧠 Azure CycleCloud
-
-Explore Azure CycleCloud for deploying and managing HPC and AI clusters using Slurm and enterprise-scale schedulers.
-
-[![Azure CycleCloud Presentation](images/AzureCycleCloud.png)](https://www.youtube.com/@nhcloud)
-
-📺 YouTube: https://www.youtube.com/@nhcloud
--->
