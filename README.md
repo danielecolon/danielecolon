@@ -101,5 +101,29 @@ Here are some ideas to get you started:
         </table>
     </td>
 </tr>
+
+<tr><td colspan=2><br><br></td></tr>
+
+<tr><td colspan=2>Azure Container Apps 📦</td></tr>
+<tr><td colspan=2>Serverless container service that simplifies the deployment and management of modern applications and microservices.<br></td></tr>
+<tr>
+    <td width="%35"><img src="images/AzureCycleCloud.png" width="100%"></td>
+    <td width="65%">
+        <table>
+          <tr><td>📺 YouTube:</td>
+              <td>
+                https://www.youtube.com/watch?v=2ug361lOkvQ&t=303s<br>
+                https://www.youtube.com/watch?v=NRhEvT7CSa4&t=649s
+              </td></tr>
+          <tr><td>💻 Slides:</td>
+              <td>
+                https://github.com/danielecolon/Azure-ContainerApps/blob/main/Azure%20Container%20Apps%20-%20Introduction.pdf<br>
+                https://github.com/danielecolon/Azure-ContainerApps/blob/main/Azure%20Container%20Apps%20-%20Advanced%20Features%20v2.pdf
+                </td></tr>
+          <tr><td>📦 GitHub:</td><td>https://github.com/danielecolon/Azure-ContainerApps</td></tr>
+        </table>
+    </td>
+</tr>
+
 </table>
 <br><br>
