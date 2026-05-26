@@ -52,8 +52,8 @@ Introduction to the core concepts of Azure Machine Learning, including workspace
   - 📺 [YouTube](https://www.youtube.com/watch?v=YE9SgWjp6-E)
   - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/2-Data_n_ETL/AzureML_2-Data_n_ETL.pdf)
 - Compute & Environments
-  - 📺 [TBD]()
-  - 💻 [TBD]()
+  - 📺 [YouTube](https://www.youtube.com/watch?v=6tuItVwHH0E)
+  - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/3-Compute_n_Environments/3-Compute_n_Environments.pdf)
 - Modeling & Experimentation
   - 📺 [TBD]()
   - 💻 [TBD]()
