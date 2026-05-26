@@ -45,19 +45,19 @@ Here are some ideas to get you started:
 ### 🐧 Azure ML Series (WSL) 
 Introduction to the core concepts of Azure Machine Learning, including workspaces, datasets, experiments, training, and model deployment.
 📦 [GitHub](https://github.com/danielecolon/Azure-ML)
-- Overview
+1. Overview
   - 📺 [YouTube](https://www.youtube.com/watch?v=vsuLHIVrzXo&t=1354s)
   - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/1-Overview/AzureML_1-Overview.pdf)
-- Data & ETL
+2. Data & ETL
   - 📺 [YouTube](https://www.youtube.com/watch?v=YE9SgWjp6-E)
   - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/2-Data_n_ETL/AzureML_2-Data_n_ETL.pdf)
-- Compute & Environments
+3. Compute & Environments
   - 📺 [YouTube](https://www.youtube.com/watch?v=6tuItVwHH0E)
   - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/3-Compute_n_Environments/3-Compute_n_Environments.pdf)
-- Modeling & Experimentation
+4. Modeling & Experimentation
   - 📺 [TBD]()
   - 💻 [TBD]()
-- Team Environment & EnterpriseGovernance
+5. Team Environment & EnterpriseGovernance
   - 📺 [TBD]()
   - 💻 [TBD]()
 <br><br>
