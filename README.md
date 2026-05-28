@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 <br><br>
 ## 🎤 Past Presentations
 
-### 🐧 Azure ML Series (WSL) 
+### AI
+-------
+#### 🐧 Azure ML Series (WSL) 
 Introduction to the core concepts of Azure Machine Learning, including workspaces, datasets, experiments, training, and model deployment.
 📦 [GitHub](https://github.com/danielecolon/Azure-ML)
 1. Overview
@@ -59,31 +61,37 @@ Introduction to the core concepts of Azure Machine Learning, including workspace
   - 📺 [TBD]()
   - 💻 [TBD]()
 <br><br>
-### 🐧 Windows Subsystem for Linux (WSL) 
+### CLI
+-------
+#### 🐧 Windows Subsystem for Linux (WSL) 
 Learn how to use WSL for cloud engineering, development workflows, containers, and Linux tooling directly from Windows.
 - 📺 [YouTube](https://www.youtube.com/watch?v=vsuLHIVrzXo&t=1354s)
 - 💻 [Slides](https://github.com/danielecolon/WSL/blob/main/WSL.pdf)
 - 📦 [GitHub](https://github.com/danielecolon/WSL)
 <br><br>
-### 💻 Azure CLI
+#### 💻 Azure CLI
 Master Azure from the command line using the Azure CLI for automation, scripting, and infrastructure management.
 - 📺 [YouTube](https://www.youtube.com/watch?v=_inJ4uKAJTc&t=1617s)
 - 💻 [Slides](https://github.com/danielecolon/Azure-CLI/blob/main/AzureCLI(az).pdf)
 - 📦 [GitHub](https://github.com/danielecolon/Azure-CLI) 
 <br><br>
-### ⚡ Azure Batch
+### HPC
+-------
+#### ⚡ Azure Batch
 An introduction to Azure Batch for large-scale parallel workloads, rendering, media processing, and HPC job scheduling.
 - 📺 [YouTube](https://www.youtube.com/watch?v=-kvSgLiEdzQ)
 - 💻 [Slides](https://github.com/danielecolon/Azure-Batch/blob/main/Azure%20HPC%20Batch.pdf)
 - 📦 [GitHub](https://github.com/danielecolon/Azure-Batch)
 <br><br>
-### 🧠 Azure CycleCloud
+#### 🧠 Azure CycleCloud
 Explore Azure CycleCloud for deploying and managing HPC and AI clusters using Slurm and enterprise-scale schedulers.
 - 📺 [YouTube](https://www.youtube.com/watch?v=hDXpCk9tZoc&t=1815s)
 - 💻 [Slides](https://github.com/danielecolon/Azure-CycleCloud/blob/main/Azure%20HPC%20CycleCloud.pdf)
 - 📦 [GitHub](https://github.com/danielecolon/Azure-CycleCloud)
 <br><br>
-### 📦 Azure Container Apps
+### Containers
+-------
+#### 📦 Azure Container Apps
 Serverless container service that simplifies the deployment and management of modern applications and microservices.
 - 📺 [YouTube: Intro](https://www.youtube.com/watch?v=2ug361lOkvQ&t=303s)
 - 📺 [YouTube: Adv](https://www.youtube.com/watch?v=NRhEvT7CSa4&t=649s)
