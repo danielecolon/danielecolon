@@ -57,44 +57,61 @@ Introduction to the core concepts of Azure Machine Learning, including workspace
 4. Modeling & Experimentation
   - 📺 [YouTube](https://www.youtube.com/watch?v=OG9njiEtTJE)
   - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/4-Modeling_n_Experimentation/Modeling_n_Experimentation.pdf)
-5. Team Environment & EnterpriseGovernance
+5. Deploying & Operating Models
+  - 📺 [TBD]()
+  - 💻 [TBD]()
+6. Team Environment & EnterpriseGovernance
   - 📺 [TBD]()
   - 💻 [TBD]()
 <br><br>
 ### CLI
 -------
 #### 🐧 Windows Subsystem for Linux (WSL) 
-Learn how to use WSL for cloud engineering, development workflows, containers, and Linux tooling directly from Windows.
+Learn how to use WSL for cloud engineering, development workflows, containers, and Linux tooling directly from Windows.<br>
+<img align="left" src="images/WSL.png" width="180" hspace="20"  alt="WSL presentation image">
 - 📺 [YouTube](https://www.youtube.com/watch?v=vsuLHIVrzXo&t=1354s)
 - 💻 [Slides](https://github.com/danielecolon/WSL/blob/main/WSL.pdf)
 - 📦 [GitHub](https://github.com/danielecolon/WSL)
-<br><br>
+<br clear="left">
+
 #### 💻 Azure CLI
 Master Azure from the command line using the Azure CLI for automation, scripting, and infrastructure management.
+<img align="left" src="images/azcli.png" width="180" hspace="20"  alt="AZ CLI presentation image">
 - 📺 [YouTube](https://www.youtube.com/watch?v=_inJ4uKAJTc&t=1617s)
 - 💻 [Slides](https://github.com/danielecolon/Azure-CLI/blob/main/AzureCLI(az).pdf)
-- 📦 [GitHub](https://github.com/danielecolon/Azure-CLI) 
-<br><br>
+- 📦 [GitHub](https://github.com/danielecolon/Azure-CLI)
+<br clear="left">
+
 ### HPC
 -------
 #### ⚡ Azure Batch
 An introduction to Azure Batch for large-scale parallel workloads, rendering, media processing, and HPC job scheduling.
+<img align="left" src="images/AzureBatch.png" width="180" hspace="20"  alt="Azure Batch presentation image">
 - 📺 [YouTube](https://www.youtube.com/watch?v=-kvSgLiEdzQ)
 - 💻 [Slides](https://github.com/danielecolon/Azure-Batch/blob/main/Azure%20HPC%20Batch.pdf)
 - 📦 [GitHub](https://github.com/danielecolon/Azure-Batch)
-<br><br>
+<br clear="left">
+
 #### 🧠 Azure CycleCloud
 Explore Azure CycleCloud for deploying and managing HPC and AI clusters using Slurm and enterprise-scale schedulers.
+<img align="left" src="images/AzureCycleCloud.png" width="180" hspace="20"  alt="Azure CycleCloud presentation image">
 - 📺 [YouTube](https://www.youtube.com/watch?v=hDXpCk9tZoc&t=1815s)
 - 💻 [Slides](https://github.com/danielecolon/Azure-CycleCloud/blob/main/Azure%20HPC%20CycleCloud.pdf)
 - 📦 [GitHub](https://github.com/danielecolon/Azure-CycleCloud)
-<br><br>
+<br clear="left">
+
 ### Containers
 -------
 #### 📦 Azure Container Apps
+- 📦 [GitHub](https://github.com/danielecolon/Azure-ContainerApps)
+
 Serverless container service that simplifies the deployment and management of modern applications and microservices.
+<img align="left" src="images/AzureContainerApps.png" width="180" hspace="20"  alt="Azure Container Apps Intro presentation image">
 - 📺 [YouTube: Intro](https://www.youtube.com/watch?v=2ug361lOkvQ&t=303s)
-- 📺 [YouTube: Adv](https://www.youtube.com/watch?v=NRhEvT7CSa4&t=649s)
 - 💻 [Slides: Intro](https://github.com/danielecolon/Azure-ContainerApps/blob/main/Azure%20Container%20Apps%20-%20Introduction.pdf)
+- 📺 [YouTube: Adv](https://www.youtube.com/watch?v=NRhEvT7CSa4&t=649s)
 - 💻 [Slides: Adv](https://github.com/danielecolon/Azure-ContainerApps/blob/main/Azure%20Container%20Apps%20-%20Advanced%20Features%20v2.pdf)
-- 📦 [GitHub](https://github.com/danielecolon/Azure-ContainerApps) 
+<br clear="left">
+
+
+
