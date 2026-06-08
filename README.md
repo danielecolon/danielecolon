@@ -111,6 +111,15 @@ Serverless container service that simplifies the deployment and management of mo
 - 💻 [Slides: Intro](https://github.com/danielecolon/Azure-ContainerApps/blob/main/Azure%20Container%20Apps%20-%20Introduction.pdf)
 - 📺 [YouTube: Adv](https://www.youtube.com/watch?v=NRhEvT7CSa4&t=649s)
 - 💻 [Slides: Adv](https://github.com/danielecolon/Azure-ContainerApps/blob/main/Azure%20Container%20Apps%20-%20Advanced%20Features%20v2.pdf)
+<br clear="left"> 
+
+#### 📦 Run Ollama on Azure Container Apps
+Build and deploy Ollama in a containerized environment using Azure Container Apps.                              
+<img align="left" src="images/Ollama.gif" width="180" hspace="20"  alt="Ollama on Azure Container Apps image">
+<br clear="left">
+- 📺 [YouTube](https://www.youtube.com/watch?v=ApT7UjxE2bs&t=4042s)                                                   
+- 💻 [Slides](https://github.com/danielecolon/Azure-ContainerApps-Ollama/blob/main/Self-Hosting%20AI%20LLMs.pdf)        
+- 📦 [GitHub](https://github.com/danielecolon/Azure-ContainerApps-Ollama)                                            
 <br clear="left">
 
 
