@@ -59,7 +59,7 @@ Introduction to the core concepts of Azure Machine Learning, including workspace
   - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/4-Modeling_n_Experimentation/Modeling_n_Experimentation.pdf)
 5. Deploying & Operating Models
   - 📺 [TBD]()
-  - 💻 [TBD]()
+  - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/5-Deploying_n_OperatingModels/Deployment_n_Operations.pdf)
 6. Team Environment & EnterpriseGovernance
   - 📺 [TBD]()
   - 💻 [TBD]()
