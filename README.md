@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Upcoming Presentations
+TBD
 <!--
 ### Compute in the Cloud<br>
 <img src="images/ComputeInTheCloud.png" style="width:45%; height:auto;">
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 - Tuesday April 21st AI Needs Compute - Cloud TX<br>
   https://www.meetup.com/cloudtx/events/313808680/<br>
 <br>
--->
+
 
 ### Azure Machine Learning Series
 <img src="images/MachineLearning5.png" style="width:20%; height:auto;"> 
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
   https://www.meetup.com/nashuaug/events/313820173/<br>
 
 <br><br>
+-->
 ## 🎤 Past Presentations
 
 ### AI
