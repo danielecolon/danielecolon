@@ -15,15 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Upcoming Presentations
-TBD
-<!--
-### Compute in the Cloud<br>
-<img src="images/ComputeInTheCloud.png" style="width:45%; height:auto;">
 
-- Monday, April 20th Compute in the Cloud - Cloud NH<br>
-  https://www.meetup.com/cloudnh/events/313807300/<br>
+### Claude Learning Series
+<img src="images/ClaudeLearningSeries.avif" style="width:45%; height:auto;">
+
+- Wednesday, September 23rd Claude 101: Getting Started with Anthropic’s AI Assistant - Nashua CLOUD .NET User Group<br>
+  https://www.meetup.com/nashuaug/events/316276862/<br>
+- Wednesday, October 14th Claude 102: Personalization and Workspace - Nashua CLOUD .NET User Group<br>
+  https://www.meetup.com/nashuaug/events/316453041/<br>
+- Wednesday, November 11th Claude 103: Agents, Integrations, and Advanced Workflows - Nashua CLOUD .NET User Group<br>
+  https://www.meetup.com/nashuaug/events/316453124/<br>  
 <br>
 
+### Azure Machine Learning Series
+<img src="images/MachineLearning6.png" style="width:20%; height:auto;"> 
+
+- Wednesday, December 9th Azure Machine Learning Step 6: Team Environment & Enterprise Governance - Nashua CLOUD .NET User Group<br>
+  https://www.meetup.com/nashuaug/events/316193914/<br>
+
+<br><br>
+<!--
+TBD
 ### AI Needs Compute
 <img src="images/AINeedsCompute.png" style="width:45%; height:auto;">
 
