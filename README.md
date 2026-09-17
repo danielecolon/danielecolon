@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 
 ### Azure Machine Learning Series
-<img src="images/MachineLearning6.png" style="width:20%; height:auto;"> 
+<img src="images/MachineLearning6.png" style="width:45%; height:auto;"> 
 
 - Wednesday, December 9th Azure Machine Learning Step 6: Team Environment & Enterprise Governance - Nashua CLOUD .NET User Group<br>
   https://www.meetup.com/nashuaug/events/316193914/<br>
