@@ -59,25 +59,32 @@ TBD
 #### 🐧 Azure ML Series (WSL) 
 Introduction to the core concepts of Azure Machine Learning, including workspaces, datasets, experiments, training, and model deployment.
 📦 [GitHub](https://github.com/danielecolon/Azure-ML)
-1. Overview
-  - 📺 [YouTube](https://www.youtube.com/watch?v=vsuLHIVrzXo&t=1354s)
-  - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/1-Overview/AzureML_1-Overview.pdf)
-2. Data & ETL
-  - 📺 [YouTube](https://www.youtube.com/watch?v=YE9SgWjp6-E)
-  - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/2-Data_n_ETL/AzureML_2-Data_n_ETL.pdf)
-3. Compute & Environments
-  - 📺 [YouTube](https://www.youtube.com/watch?v=6tuItVwHH0E)
-  - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/3-Compute_n_Environments/3-Compute_n_Environments.pdf)
-4. Modeling & Experimentation
-  - 📺 [YouTube](https://www.youtube.com/watch?v=OG9njiEtTJE)
-  - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/4-Modeling_n_Experimentation/Modeling_n_Experimentation.pdf)
-5. Deploying & Operating Models
-  - 📺 [TBD]()
-  - 💻 [Slides](https://github.com/danielecolon/Azure-ML/blob/main/5-Deploying_n_OperatingModels/Deployment_n_Operations.pdf)
-6. Team Environment & EnterpriseGovernance
-  - 📺 [TBD]()
-  - 💻 [TBD]()
+
+<table>
+<tr>
+<td valign="top">
+<b>1. Overview</b><br>
+📺 <a href="https://www.youtube.com/watch?v=vsuLHIVrzXo&amp;t=1354s">YouTube</a> · 💻 <a href="https://github.com/danielecolon/Azure-ML/blob/main/1-Overview/AzureML_1-Overview.pdf">Slides</a><br><br>
+<b>2. Data &amp; ETL</b><br>
+📺 <a href="https://www.youtube.com/watch?v=YE9SgWjp6-E">YouTube</a> · 💻 <a href="https://github.com/danielecolon/Azure-ML/blob/main/2-Data_n_ETL/AzureML_2-Data_n_ETL.pdf">Slides</a><br><br>
+<b>3. Compute &amp; Environments</b><br>
+📺 <a href="https://www.youtube.com/watch?v=6tuItVwHH0E">YouTube</a> · 💻 <a href="https://github.com/danielecolon/Azure-ML/blob/main/3-Compute_n_Environments/3-Compute_n_Environments.pdf">Slides</a>
+<br><img width="500" height="1">
+</td>
+<td valign="top">
+<b>4. Modeling &amp; Experimentation</b><br>
+📺 <a href="https://www.youtube.com/watch?v=OG9njiEtTJE">YouTube</a> · 💻 <a href="https://github.com/danielecolon/Azure-ML/blob/main/4-Modeling_n_Experimentation/Modeling_n_Experimentation.pdf">Slides</a><br><br>
+<b>5. Deploying &amp; Operating Models</b><br>
+📺 YouTube (TBD) · 💻 <a href="https://github.com/danielecolon/Azure-ML/blob/main/5-Deploying_n_OperatingModels/Deployment_n_Operations.pdf">Slides</a><br><br>
+<b>6. Team Environment &amp; Enterprise Governance</b><br>
+📺 YouTube (TBD) · 💻 Slides (TBD)
+<br><img width="500" height="1">
+</td>
+</tr>
+</table>
+
 <br><br>
+
 ### CLI
 -------
 #### 🐧 Windows Subsystem for Linux (WSL) 
