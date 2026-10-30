@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 -->
 ## Upcoming Presentations
 
-<!--
 ### AKS and kubectl: Create Your Cluster and Take Command
 <img src="images/aks-kubectl.avif" style="width:45%; height:auto;"> 
 
-- Wednesday, October 28th AKS and kubectl: Create Your Cluster and Take Command - Cloud NH User Group<br>
-  https://www.meetup.com/nashuaug/events/316884613/<br>
+- Tuesday, November 10th AKS Essentials: Spin Up a Cluster and Drive It with kubectl - Cloud TX User Group<br>
+  https://www.meetup.com/cloudtx/events/317205947/<br>
 <br>
--->
 
 ### Claude Learning Series
 <img src="images/ClaudeLearningSeries.avif" style="width:45%; height:auto;">
