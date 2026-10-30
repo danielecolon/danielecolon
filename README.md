@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Upcoming Presentations
 
-### AKS and kubectl: Create Your Cluster and Take Command
-<img src="images/aks-kubectl.avif" style="width:45%; height:auto;"> 
+### AKS Essentials: Spin Up a Cluster and Drive It with kubectl
+<img src="images/aks-essentials.png" style="width:45%; height:auto;"> 
 
 - Tuesday, November 10th AKS Essentials: Spin Up a Cluster and Drive It with kubectl - Cloud TX User Group<br>
   https://www.meetup.com/cloudtx/events/317205947/<br>
