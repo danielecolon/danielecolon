@@ -34,6 +34,13 @@ Here are some ideas to get you started:
   https://www.meetup.com/nashuaug/events/316453124/<br>  
 <br>
 
+### From Sensor to Cloud: Building a Real-World IoT Solution with Azure and Raspberry Pi
+<img src="images/azure-iot.png" style="width:45%; height:auto;"> 
+
+- Thursday, November 12th From Sensor to Cloud: Building a Real-World IoT Solution with Azure and Raspberry Pi - Cloud NH User Group<br>
+  https://www.meetup.com/cloudnh/events/317220050/<br>
+<br>
+
 ### Azure Machine Learning Series
 <img src="images/MachineLearning6.png" style="width:45%; height:auto;"> 
 
