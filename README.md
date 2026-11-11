@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Upcoming Presentations
-
+<!--
 ### AKS Essentials: Spin Up a Cluster and Drive It with kubectl
 <img src="images/aks-essentials.png" style="width:45%; height:auto;"> 
 
 - Tuesday, November 10th AKS Essentials: Spin Up a Cluster and Drive It with kubectl - Cloud TX User Group<br>
   https://www.meetup.com/cloudtx/events/317205947/<br>
 <br>
+-->
 
 ### Claude Learning Series
 <img src="images/ClaudeLearningSeries.avif" style="width:45%; height:auto;">
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 ### From Sensor to Cloud: Building a Real-World IoT Solution with Azure and Raspberry Pi
 <img src="images/azure-iot.png" style="width:45%; height:auto;"> 
 
-- Thursday, November 12th From Sensor to Cloud: Building a Real-World IoT Solution with Azure and Raspberry Pi - Cloud NH User Group<br>
+- Thursday, November 19th From Sensor to Cloud: Building a Real-World IoT Solution with Azure and Raspberry Pi - Cloud NH User Group<br>
   https://www.meetup.com/cloudnh/events/317220050/<br>
 <br>
 
@@ -105,6 +106,13 @@ Introduction to the core concepts of Azure Machine Learning, including workspace
 
 ### CLI
 -------
+#### 🐧 AKS and kubectl 
+Create Your Cluster and Take Command.<br>
+<img align="left" src="images/aks-essentials.png" width="180" hspace="20"  alt="WSL presentation image">
+- 💻 [Slides](https://github.com/danielecolon/azure-aks-kubectl/blob/main/aks-kubectl.pdf)
+- 📦 [GitHub](https://github.com/danielecolon/azure-aks-kubectl)
+<br clear="left">
+
 #### 🐧 Windows Subsystem for Linux (WSL) 
 Learn how to use WSL for cloud engineering, development workflows, containers, and Linux tooling directly from Windows.<br>
 <img align="left" src="images/WSL.png" width="180" hspace="20"  alt="WSL presentation image">
