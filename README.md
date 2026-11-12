@@ -89,9 +89,9 @@ Introduction to the core concepts of Claude.<br>
 <b>Claude 101: Getting Started with Anthropic’s AI Assistant</b><br>
 📺 <a href="https://www.youtube.com/watch?v=lQJG7nGOV1E&t=1288s">YouTube</a> · 💻 <a href="https://github.com/danielecolon/Claude/blob/main/101-GettingStarted/Claude101.pdf">Slides</a><br><br>
 <b>Claude 102: Personalization and Workspace</b><br>
-📺 <a href="https://www.youtube.com/atch?v=JMK_nPN-pBk&t=2s">YouTube</a> · 💻 <a href="https://github.com/danielecolon/Claude/blob/main/102-Personalization_n_Workspace/Claude102.pdf">Slides</a><br><br>
+📺 <a href="https://www.youtube.com/watch?v=JMK_nPN-pBk&t=2s">YouTube</a> · 💻 <a href="https://github.com/danielecolon/Claude/blob/main/102-Personalization_n_Workspace/Claude102.pdf">Slides</a><br><br>
 <b>Claude 103: Agents, Integrations, and Advanced Workflows</b><br>
-📺 YouTube (TBD) · 💻 <a href="https://github.com/danielecolon/103-Agents_Integrations_n_Workflows/Claude103.pdf">Slides</a>
+📺 <a href="https://www.youtube.com/watch?v=Tl_TR80rDE4">YouTube</a> · 💻 <a href="https://github.com/danielecolon/103-Agents_Integrations_n_Workflows/Claude103.pdf">Slides</a>
 <br><img width="500" height="1">
 </td>
 </tr>
