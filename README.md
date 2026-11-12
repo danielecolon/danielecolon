@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Tuesday, November 10th AKS Essentials: Spin Up a Cluster and Drive It with kubectl - Cloud TX User Group<br>
   https://www.meetup.com/cloudtx/events/317205947/<br>
 <br>
--->
+
 
 ### Claude Learning Series
 <img src="images/ClaudeLearningSeries.avif" style="width:45%; height:auto;">
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - Wednesday, November 11th Claude 103: Agents, Integrations, and Advanced Workflows - Nashua CLOUD .NET User Group<br>
   https://www.meetup.com/nashuaug/events/316453124/<br>  
 <br>
+-->
 
 ### From Sensor to Cloud: Building a Real-World IoT Solution with Azure and Raspberry Pi
 <img src="images/azure-iot.png" style="width:45%; height:auto;"> 
@@ -75,6 +76,29 @@ TBD
 
 ### AI
 -------
+#### 🐧 Claude Series 
+<img align="left" src="images/ClaudeLearningSeries.avif" width="180" hspace="20"  alt="WSL presentation image">
+<br clear="left">
+
+Introduction to the core concepts of Claude.<br>
+📦 [GitHub](https://github.com/danielecolon/claude)
+
+<table>
+<tr>
+<td valign="top">
+<b>Claude 101: Getting Started with Anthropic’s AI Assistant</b><br>
+📺 <a href="https://www.youtube.com/watch?v=lQJG7nGOV1E&t=1288s">YouTube</a> · 💻 <a href="https://github.com/danielecolon/Claude/blob/main/101-GettingStarted/Claude101.pdf">Slides</a><br><br>
+<b>Claude 102: Personalization and Workspace</b><br>
+📺 <a href="https://www.youtube.com/atch?v=JMK_nPN-pBk&t=2s">YouTube</a> · 💻 <a href="https://github.com/danielecolon/Claude/blob/main/102-Personalization_n_Workspace/Claude102.pdf">Slides</a><br><br>
+<b>Claude 103: Agents, Integrations, and Advanced Workflows</b><br>
+📺 <a href="TBD">YouTube</a> · 💻 <a href="https://github.com/danielecolon/103-Agents_Integrations_n_Workflows/Claude103.pdf">Slides</a>
+<br><img width="500" height="1">
+</td>
+</tr>
+</table>
+
+<br><br>
+
 #### 🐧 Azure ML Series (WSL) 
 Introduction to the core concepts of Azure Machine Learning, including workspaces, datasets, experiments, training, and model deployment.
 📦 [GitHub](https://github.com/danielecolon/Azure-ML)
