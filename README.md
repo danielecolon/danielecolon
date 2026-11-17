@@ -53,7 +53,15 @@ Here are some ideas to get you started:
 
 - Wednesday, December 9th Azure Machine Learning Step 6: Team Environment & Enterprise Governance - Nashua CLOUD .NET User Group<br>
   https://www.meetup.com/nashuaug/events/316193914/<br>
+<br>
+
+### kubectl: The Command Line That Drives Kubernetes on Azure
+<img src="images/kubectl.png" style="width:45%; height:auto;"> 
+
+- Thursday, January 6th kubectl: The Command Line That Drives Kubernetes on Azure - Cloud NH User Group<br>
+  https://www.meetup.com/cloudnh/events/317467633/<br>
 <br><br>
+
 <!--
 TBD
 ### AI Needs Compute
