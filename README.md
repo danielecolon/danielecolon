@@ -1,40 +1,9 @@
 <!--## Hi there 👋-->
 
 <!--
-**danielecolon/danielecolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨ 🔭 🌱 👯 🤔 💬 📫 😄 ⚡ 
 -->
 ## Upcoming Presentations
-<!--
-### AKS Essentials: Spin Up a Cluster and Drive It with kubectl
-<img src="images/aks-essentials.png" style="width:45%; height:auto;"> 
-
-- Tuesday, November 10th AKS Essentials: Spin Up a Cluster and Drive It with kubectl - Cloud TX User Group<br>
-  https://www.meetup.com/cloudtx/events/317205947/<br>
-<br>
-
-
-### Claude Learning Series
-<img src="images/ClaudeLearningSeries.avif" style="width:45%; height:auto;">
-
-- Wednesday, September 23rd Claude 101: Getting Started with Anthropic’s AI Assistant - Nashua CLOUD .NET User Group<br>
-  📺 <a href="https://www.youtube.com/watch?v=lQJG7nGOV1E&t=1288s">YouTube</a> · 💻 <a href="https://github.com/danielecolon/Claude/blob/main/101-GettingStarted/Claude101.pdf">Slides</a><br>
-- Wednesday, October 14th Claude 102: Personalization and Workspace - Nashua CLOUD .NET User Group<br>
-  📺 <a href="https://www.youtube.com/watch?v=JMK_nPN-pBk&t=2s">YouTube</a> · 💻 <a href="https://github.com/danielecolon/Claude/blob/main/102-Personalization_n_Workspace/Claude102.pdf">Slides</a><br>
-- Wednesday, November 11th Claude 103: Agents, Integrations, and Advanced Workflows - Nashua CLOUD .NET User Group<br>
-  https://www.meetup.com/nashuaug/events/316453124/<br>  
-<br>
--->
 
 ### From Sensor to Cloud: Building a Real-World IoT Solution with Azure and Raspberry Pi
 <img src="images/azure-iot.png" style="width:45%; height:auto;"> 
@@ -60,26 +29,18 @@ Here are some ideas to get you started:
 
 - Thursday, January 6th kubectl: The Command Line That Drives Kubernetes on Azure - Cloud NH User Group<br>
   https://www.meetup.com/cloudnh/events/317467633/<br>
-<br><br>
-
+<br>
 <!--
-TBD
-### AI Needs Compute
-<img src="images/AINeedsCompute.png" style="width:45%; height:auto;">
+### IoT
+<img src="images/xxxxxxxx.avif" style="width:45%; height:auto;"> 
 
-- Tuesday April 21st AI Needs Compute - Cloud TX<br>
-  https://www.meetup.com/cloudtx/events/313808680/<br>
+- Wednesday, Febuary 3rd IoT - Cloud NH User Group<br>
+  https://www.meetup.com/cloudnh/events/xxxxxxxxx/<br>
+<br>
+-->
 <br>
 
 
-### Azure Machine Learning Series
-<img src="images/MachineLearning5.png" style="width:20%; height:auto;"> 
-
-- Wednesday, July 8th Azure Machine Learning 5 - Nashua CLOUD .NET User Group<br>
-  https://www.meetup.com/nashuaug/events/313820173/<br>
-
-<br><br>
--->
 ## 🎤 Past Presentations
 
 ### AI
